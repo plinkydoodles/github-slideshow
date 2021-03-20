@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Edit the text **bold text** *italic text* :smiley: 💜 
 Use the left arrow to go back!
